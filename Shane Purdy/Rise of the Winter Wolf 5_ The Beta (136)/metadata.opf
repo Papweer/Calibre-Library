@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94660735-2557-4cea-97e3-47879a4af08b</dc:identifier>
+        <dc:title>Rise of the Winter Wolf 5: The Beta Dungeon</dc:title>
+        <dc:creator opf:file-as="Purdy, Shane" opf:role="aut">Shane Purdy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CNV2NCZP</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:series" content="The Rise of the Winter Wolf"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2024-05-26T07:10:20.010417+00:00"/>
+        <meta name="calibre:title_sort" content="Rise of the Winter Wolf 5: The Beta Dungeon"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;The amount of pages in the book.&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: 397, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#words" content="{&quot;table&quot;: &quot;custom_column_4&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Words&quot;, &quot;search_terms&quot;: [&quot;#words&quot;], &quot;label&quot;: &quot;words&quot;, &quot;colnum&quot;: 4, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;The amount of words in the book&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 102014, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

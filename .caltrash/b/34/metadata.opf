@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c25a377-abaf-43b1-b2b2-b60eaa92c823</dc:identifier>
+        <dc:title>Unknown</dc:title>
+        <dc:creator opf:file-as="Brink, JF" opf:role="aut">JF Brink</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-20T00:00:00+00:00</dc:date>
+        <dc:publisher>Aethon Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09SBBKMLM</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:series" content="Defiance of the Fall"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2024-05-25T12:50:21.159383+00:00"/>
+        <meta name="calibre:title_sort" content="Unknown"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
