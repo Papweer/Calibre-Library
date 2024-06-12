@@ -41,7 +41,7 @@
       "title": 2
     },
     "column_sizes": {
-      "#pages": 41,
+      "#pages": 47,
       "#words": 56,
       "authors": 73,
       "formats": 0,
@@ -713,6 +713,10 @@
   },
   "gui_view_history": [
     [
+      96,
+      "All Trades 3: Corporate Warfare"
+    ],
+    [
       153,
       "Apocalypse Redux 2"
     ],
@@ -767,13 +771,9 @@
     [
       6,
       "The Path of Ascension 3"
-    ],
-    [
-      7,
-      "The Path of Ascension 2"
     ]
   ],
-  "last_expired_trash_at": 1717360457.5639324,
+  "last_expired_trash_at": 1718173854.9256291,
   "namespaced:CountPagesPlugin:settings": {
     "SchemaVersion": 1.61,
     "algorithmPages": 0,
