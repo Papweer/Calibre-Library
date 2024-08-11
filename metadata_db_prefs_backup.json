@@ -16,49 +16,6 @@
     "identifiers"
   ],
   "library_view books view state": {
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    },
-    "column_positions": {
-      "#pages": 9,
-      "#words": 10,
-      "authors": 4,
-      "formats": 6,
-      "id": 1,
-      "languages": 16,
-      "last_modified": 15,
-      "ondevice": 0,
-      "path": 7,
-      "pubdate": 8,
-      "publisher": 11,
-      "rating": 13,
-      "series": 3,
-      "size": 5,
-      "tags": 14,
-      "timestamp": 12,
-      "title": 2
-    },
-    "column_sizes": {
-      "#pages": 47,
-      "#words": 56,
-      "authors": 73,
-      "formats": 0,
-      "id": 0,
-      "languages": 0,
-      "last_modified": 0,
-      "path": 0,
-      "pubdate": 64,
-      "publisher": 123,
-      "rating": 0,
-      "series": 170,
-      "size": 58,
-      "tags": 0,
-      "timestamp": 0,
-      "title": 240
-    },
-    "formats_injected": true,
     "hidden_columns": [
       "id",
       "timestamp",
@@ -69,11 +26,16 @@
       "last_modified",
       "languages"
     ],
-    "id_injected": true,
-    "languages_injected": true,
     "last_modified_injected": true,
+    "languages_injected": true,
+    "formats_injected": true,
+    "id_injected": true,
     "path_injected": true,
     "sort_history": [
+      [
+        "title",
+        true
+      ],
       [
         "series",
         true
@@ -90,7 +52,49 @@
         "timestamp",
         false
       ]
-    ]
+    ],
+    "column_positions": {
+      "ondevice": 0,
+      "id": 1,
+      "title": 2,
+      "authors": 4,
+      "timestamp": 12,
+      "size": 5,
+      "rating": 13,
+      "tags": 14,
+      "series": 3,
+      "publisher": 11,
+      "formats": 6,
+      "path": 7,
+      "pubdate": 8,
+      "last_modified": 15,
+      "languages": 16,
+      "#pages": 9,
+      "#words": 10
+    },
+    "column_sizes": {
+      "id": 0,
+      "title": 240,
+      "authors": 73,
+      "timestamp": 0,
+      "size": 58,
+      "rating": 0,
+      "tags": 0,
+      "series": 170,
+      "publisher": 123,
+      "formats": 0,
+      "path": 0,
+      "pubdate": 64,
+      "last_modified": 0,
+      "languages": 0,
+      "#pages": 47,
+      "#words": 56
+    },
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    }
   },
   "books view split pane state": {
     "column_positions": {
@@ -713,6 +717,10 @@
   },
   "gui_view_history": [
     [
+      190,
+      "System Universe 6: Indaria"
+    ],
+    [
       53,
       "All the Skills 1"
     ],
@@ -767,13 +775,9 @@
     [
       5,
       "The Path of Ascension 4"
-    ],
-    [
-      6,
-      "The Path of Ascension 3"
     ]
   ],
-  "last_expired_trash_at": 1720212143.9510367,
+  "last_expired_trash_at": 1723410325.0400224,
   "namespaced:CountPagesPlugin:settings": {
     "SchemaVersion": 1.61,
     "algorithmPages": 0,
@@ -965,5 +969,6 @@
   ],
   "column_color_rules": [],
   "column_icon_rules": [],
-  "cover_grid_icon_rules": []
+  "cover_grid_icon_rules": [],
+  "news_to_be_synced": []
 }
