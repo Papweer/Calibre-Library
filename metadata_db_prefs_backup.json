@@ -33,6 +33,10 @@
     "path_injected": true,
     "sort_history": [
       [
+        "series",
+        true
+      ],
+      [
         "title",
         true
       ],
@@ -42,10 +46,6 @@
       ],
       [
         "size",
-        true
-      ],
-      [
-        "title",
         true
       ],
       [
@@ -777,7 +777,7 @@
       "The Path of Ascension 4"
     ]
   ],
-  "last_expired_trash_at": 1723410325.0400224,
+  "last_expired_trash_at": 1723757538.6762054,
   "namespaced:CountPagesPlugin:settings": {
     "SchemaVersion": 1.61,
     "algorithmPages": 0,
