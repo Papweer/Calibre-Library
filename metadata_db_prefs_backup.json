@@ -713,6 +713,22 @@
   },
   "gui_view_history": [
     [
+      37,
+      "Warformed: Stormweaver 2: Fire and Song"
+    ],
+    [
+      120,
+      "Mother of Learning 3"
+    ],
+    [
+      36,
+      "Warformed: Stormweaver 1: Iron Prince"
+    ],
+    [
+      218,
+      "Path of Ascension 7"
+    ],
+    [
       224,
       "Leveling Up The World 6"
     ],
@@ -741,10 +757,6 @@
       "All the Skills 2"
     ],
     [
-      120,
-      "Mother of Learning 3"
-    ],
-    [
       135,
       "Rise of the Winter Wolf 1: The Initialization"
     ],
@@ -759,21 +771,9 @@
     [
       101,
       "Initialization: A LitRPG Adventure (Master Hunter K, Book 1)"
-    ],
-    [
-      15,
-      "Defiance of the Fall 1"
-    ],
-    [
-      66,
-      "Undying Magician 1: Arcane Academy"
-    ],
-    [
-      73,
-      "Nova Terra 1"
     ]
   ],
-  "last_expired_trash_at": 1725828516.8750923,
+  "last_expired_trash_at": 1726693228.2030723,
   "namespaced:CountPagesPlugin:settings": {
     "SchemaVersion": 1.61,
     "algorithmPages": 0,
