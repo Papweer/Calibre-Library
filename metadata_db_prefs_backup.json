@@ -16,49 +16,6 @@
     "identifiers"
   ],
   "library_view books view state": {
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    },
-    "column_positions": {
-      "#pages": 9,
-      "#words": 10,
-      "authors": 4,
-      "formats": 6,
-      "id": 1,
-      "languages": 16,
-      "last_modified": 15,
-      "ondevice": 0,
-      "path": 7,
-      "pubdate": 8,
-      "publisher": 11,
-      "rating": 13,
-      "series": 3,
-      "size": 5,
-      "tags": 14,
-      "timestamp": 12,
-      "title": 2
-    },
-    "column_sizes": {
-      "#pages": 47,
-      "#words": 56,
-      "authors": 73,
-      "formats": 0,
-      "id": 0,
-      "languages": 0,
-      "last_modified": 0,
-      "path": 0,
-      "pubdate": 64,
-      "publisher": 123,
-      "rating": 0,
-      "series": 170,
-      "size": 58,
-      "tags": 0,
-      "timestamp": 0,
-      "title": 252
-    },
-    "formats_injected": true,
     "hidden_columns": [
       "id",
       "timestamp",
@@ -69,11 +26,16 @@
       "last_modified",
       "languages"
     ],
-    "id_injected": true,
-    "languages_injected": true,
     "last_modified_injected": true,
+    "languages_injected": true,
+    "formats_injected": true,
+    "id_injected": true,
     "path_injected": true,
     "sort_history": [
+      [
+        "publisher",
+        true
+      ],
       [
         "series",
         true
@@ -90,7 +52,49 @@
         "timestamp",
         false
       ]
-    ]
+    ],
+    "column_positions": {
+      "ondevice": 0,
+      "id": 1,
+      "title": 2,
+      "authors": 4,
+      "timestamp": 12,
+      "size": 5,
+      "rating": 13,
+      "tags": 14,
+      "series": 3,
+      "publisher": 11,
+      "formats": 6,
+      "path": 7,
+      "pubdate": 8,
+      "last_modified": 15,
+      "languages": 16,
+      "#pages": 9,
+      "#words": 10
+    },
+    "column_sizes": {
+      "id": 0,
+      "title": 252,
+      "authors": 73,
+      "timestamp": 0,
+      "size": 58,
+      "rating": 0,
+      "tags": 0,
+      "series": 170,
+      "publisher": 123,
+      "formats": 0,
+      "path": 0,
+      "pubdate": 82,
+      "last_modified": 0,
+      "languages": 0,
+      "#pages": 47,
+      "#words": 56
+    },
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    }
   },
   "books view split pane state": {
     "column_positions": {
@@ -713,16 +717,52 @@
   },
   "gui_view_history": [
     [
+      10,
+      "Defiance of the Fall 8"
+    ],
+    [
+      14,
+      "Defiance of the Fall 12"
+    ],
+    [
+      12,
+      "Defiance of the Fall 10"
+    ],
+    [
+      187,
+      "Defiance of the Fall 13"
+    ],
+    [
+      15,
+      "Defiance of the Fall 1"
+    ],
+    [
+      200,
+      "Ashborn Primordial 1"
+    ],
+    [
+      205,
+      "Blessed Time 3: Dakkora's Legacy"
+    ],
+    [
+      198,
+      "Blessed Time 2: Coda"
+    ],
+    [
+      196,
+      "Ashborn Primordial 2"
+    ],
+    [
+      36,
+      "Warformed: Stormweaver 1: Iron Prince"
+    ],
+    [
       37,
       "Warformed: Stormweaver 2: Fire and Song"
     ],
     [
       120,
       "Mother of Learning 3"
-    ],
-    [
-      36,
-      "Warformed: Stormweaver 1: Iron Prince"
     ],
     [
       218,
@@ -735,45 +775,9 @@
     [
       195,
       "Speedrunning the Multiverse 3"
-    ],
-    [
-      190,
-      "System Universe 6: Indaria"
-    ],
-    [
-      53,
-      "All the Skills 1"
-    ],
-    [
-      96,
-      "All Trades 3: Corporate Warfare"
-    ],
-    [
-      153,
-      "Apocalypse Redux 2"
-    ],
-    [
-      52,
-      "All the Skills 2"
-    ],
-    [
-      135,
-      "Rise of the Winter Wolf 1: The Initialization"
-    ],
-    [
-      102,
-      "Master Hunter K, 3: The Final Chapter"
-    ],
-    [
-      101,
-      "Master Hunter K, 1: Initialization"
-    ],
-    [
-      101,
-      "Initialization: A LitRPG Adventure (Master Hunter K, Book 1)"
     ]
   ],
-  "last_expired_trash_at": 1726693228.2030723,
+  "last_expired_trash_at": 1726739636.2258089,
   "namespaced:CountPagesPlugin:settings": {
     "SchemaVersion": 1.61,
     "algorithmPages": 0,

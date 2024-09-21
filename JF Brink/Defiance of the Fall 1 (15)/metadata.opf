@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">12b53105-46eb-4b91-b3d6-5fc79f3fe231</dc:identifier>
         <dc:title>Defiance of the Fall 1</dc:title>
         <dc:creator opf:file-as="Brink, JF" opf:role="aut">JF Brink</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-06-08T00:00:00+00:00</dc:date>
         <dc:publisher>Aethon Books</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B09168R29M</dc:identifier>
