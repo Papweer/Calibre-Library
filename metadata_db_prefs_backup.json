@@ -33,6 +33,10 @@
     "path_injected": true,
     "sort_history": [
       [
+        "series",
+        true
+      ],
+      [
         "publisher",
         true
       ],
@@ -41,11 +45,7 @@
         true
       ],
       [
-        "title",
-        true
-      ],
-      [
-        "series",
+        "publisher",
         true
       ],
       [
@@ -74,7 +74,7 @@
     },
     "column_sizes": {
       "id": 0,
-      "title": 252,
+      "title": 312,
       "authors": 73,
       "timestamp": 0,
       "size": 58,
@@ -88,7 +88,7 @@
       "last_modified": 0,
       "languages": 0,
       "#pages": 47,
-      "#words": 56
+      "#words": 73
     },
     "column_alignment": {
       "pubdate": "center",
@@ -717,6 +717,22 @@
   },
   "gui_view_history": [
     [
+      173,
+      "Completionist Chronicles 1: Ritualist"
+    ],
+    [
+      217,
+      "All The Skills 4"
+    ],
+    [
+      13,
+      "Defiance of the Fall 11"
+    ],
+    [
+      15,
+      "Defiance of the Fall 1"
+    ],
+    [
       10,
       "Defiance of the Fall 8"
     ],
@@ -731,10 +747,6 @@
     [
       187,
       "Defiance of the Fall 13"
-    ],
-    [
-      15,
-      "Defiance of the Fall 1"
     ],
     [
       200,
@@ -763,21 +775,9 @@
     [
       120,
       "Mother of Learning 3"
-    ],
-    [
-      218,
-      "Path of Ascension 7"
-    ],
-    [
-      224,
-      "Leveling Up The World 6"
-    ],
-    [
-      195,
-      "Speedrunning the Multiverse 3"
     ]
   ],
-  "last_expired_trash_at": 1726739636.2258089,
+  "last_expired_trash_at": 1726955459.7309055,
   "namespaced:CountPagesPlugin:settings": {
     "SchemaVersion": 1.61,
     "algorithmPages": 0,
