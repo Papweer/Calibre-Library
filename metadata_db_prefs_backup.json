@@ -52,11 +52,11 @@
       "pubdate": 82,
       "publisher": 123,
       "rating": 0,
-      "series": 170,
-      "size": 58,
+      "series": 157,
+      "size": 47,
       "tags": 0,
       "timestamp": 0,
-      "title": 312
+      "title": 268
     },
     "formats_injected": true,
     "hidden_columns": [
@@ -79,15 +79,11 @@
         true
       ],
       [
-        "publisher",
+        "authors",
         true
       ],
       [
-        "series",
-        true
-      ],
-      [
-        "publisher",
+        "pubdate",
         true
       ],
       [
@@ -717,6 +713,30 @@
   },
   "gui_view_history": [
     [
+      218,
+      "Path of Ascension 7"
+    ],
+    [
+      163,
+      "Dungeon Crawler Carl 5: The Butcher's Masquerade"
+    ],
+    [
+      51,
+      "All the Skills 3"
+    ],
+    [
+      230,
+      "Apocalypse Redux 7"
+    ],
+    [
+      196,
+      "Ashborn Primordial 2"
+    ],
+    [
+      52,
+      "All the Skills 2"
+    ],
+    [
       112,
       "Legend of the Arch Magus 2: The Upheaval"
     ],
@@ -751,33 +771,9 @@
     [
       14,
       "Defiance of the Fall 12"
-    ],
-    [
-      12,
-      "Defiance of the Fall 10"
-    ],
-    [
-      187,
-      "Defiance of the Fall 13"
-    ],
-    [
-      200,
-      "Ashborn Primordial 1"
-    ],
-    [
-      205,
-      "Blessed Time 3: Dakkora's Legacy"
-    ],
-    [
-      198,
-      "Blessed Time 2: Coda"
-    ],
-    [
-      196,
-      "Ashborn Primordial 2"
     ]
   ],
-  "last_expired_trash_at": 1726955459.7309055,
+  "last_expired_trash_at": 1737927397.9520507,
   "namespaced:CountPagesPlugin:settings": {
     "SchemaVersion": 1.61,
     "algorithmPages": 0,
@@ -970,5 +966,6 @@
   "column_color_rules": [],
   "column_icon_rules": [],
   "cover_grid_icon_rules": [],
-  "news_to_be_synced": []
+  "news_to_be_synced": [],
+  "expire_old_trash_after": 0
 }
