@@ -23,25 +23,27 @@
     },
     "column_positions": {
       "#pages": 9,
+      "#trimmed": 12,
       "#words": 10,
       "authors": 4,
       "formats": 6,
       "id": 1,
-      "languages": 16,
-      "last_modified": 15,
+      "languages": 17,
+      "last_modified": 16,
       "ondevice": 0,
       "path": 7,
       "pubdate": 8,
       "publisher": 11,
-      "rating": 13,
+      "rating": 14,
       "series": 3,
       "size": 5,
-      "tags": 14,
-      "timestamp": 12,
+      "tags": 15,
+      "timestamp": 13,
       "title": 2
     },
     "column_sizes": {
       "#pages": 47,
+      "#trimmed": 100,
       "#words": 73,
       "authors": 73,
       "formats": 0,
@@ -75,6 +77,22 @@
     "path_injected": true,
     "sort_history": [
       [
+        "#words",
+        false
+      ],
+      [
+        "#pages",
+        false
+      ],
+      [
+        "series",
+        true
+      ],
+      [
+        "#words",
+        true
+      ],
+      [
         "series",
         true
       ],
@@ -95,6 +113,7 @@
   "books view split pane state": {
     "column_positions": {
       "#pages": 15,
+      "#trimmed": 17,
       "#words": 16,
       "authors": 3,
       "formats": 10,
@@ -114,6 +133,7 @@
     },
     "column_sizes": {
       "#pages": 100,
+      "#trimmed": 100,
       "#words": 100,
       "authors": 100,
       "formats": 100,
@@ -157,6 +177,33 @@
       ],
       "table": "custom_column_3"
     },
+    "#trimmed": {
+      "category_sort": "value",
+      "colnum": 5,
+      "column": "value",
+      "datatype": "bool",
+      "display": {
+        "bools_show_icons": true,
+        "bools_show_text": false,
+        "default_value": false,
+        "description": "",
+        "web_search_template": ""
+      },
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": true,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "trimmed",
+      "link_column": "value",
+      "name": "Trimmed",
+      "rec_index": 23,
+      "search_terms": [
+        "#trimmed"
+      ],
+      "table": "custom_column_5"
+    },
     "#words": {
       "category_sort": "value",
       "colnum": 4,
@@ -175,7 +222,7 @@
       "label": "words",
       "link_column": "value",
       "name": "Words",
-      "rec_index": 23,
+      "rec_index": 24,
       "search_terms": [
         "#words"
       ],
@@ -358,7 +405,7 @@
       "kind": "field",
       "label": "in_tag_browser",
       "name": null,
-      "rec_index": 27,
+      "rec_index": 28,
       "search_terms": [
         "in_tag_browser"
       ],
@@ -421,7 +468,7 @@
       "kind": "field",
       "label": "marked",
       "name": null,
-      "rec_index": 25,
+      "rec_index": 26,
       "search_terms": [
         "marked"
       ],
@@ -455,7 +502,7 @@
       "kind": "field",
       "label": "ondevice",
       "name": "On device",
-      "rec_index": 24,
+      "rec_index": 25,
       "search_terms": [
         "ondevice"
       ],
@@ -587,7 +634,7 @@
       "kind": "field",
       "label": "series_sort",
       "name": "Series sort",
-      "rec_index": 26,
+      "rec_index": 27,
       "search_terms": [
         "series_sort"
       ],
@@ -713,16 +760,40 @@
   },
   "gui_view_history": [
     [
+      205,
+      "Blessed Time 3: Dakkora's Legacy"
+    ],
+    [
+      96,
+      "All Trades 3: Corporate Warfare"
+    ],
+    [
+      53,
+      "All the Skills 1"
+    ],
+    [
+      51,
+      "All the Skills 3"
+    ],
+    [
+      240,
+      "Order of Architects 2"
+    ],
+    [
+      217,
+      "All The Skills 4"
+    ],
+    [
+      44,
+      "Cradle 6: Underlord"
+    ],
+    [
       218,
       "Path of Ascension 7"
     ],
     [
       163,
       "Dungeon Crawler Carl 5: The Butcher's Masquerade"
-    ],
-    [
-      51,
-      "All the Skills 3"
     ],
     [
       230,
@@ -747,33 +818,9 @@
     [
       229,
       "The Grand Game 7"
-    ],
-    [
-      173,
-      "Completionist Chronicles 1: Ritualist"
-    ],
-    [
-      217,
-      "All The Skills 4"
-    ],
-    [
-      13,
-      "Defiance of the Fall 11"
-    ],
-    [
-      15,
-      "Defiance of the Fall 1"
-    ],
-    [
-      10,
-      "Defiance of the Fall 8"
-    ],
-    [
-      14,
-      "Defiance of the Fall 12"
     ]
   ],
-  "last_expired_trash_at": 1737927397.9520507,
+  "last_expired_trash_at": 1743622599.3915286,
   "namespaced:CountPagesPlugin:settings": {
     "SchemaVersion": 1.61,
     "algorithmPages": 0,

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1a309f37-9272-4d26-a7a6-ae02eb4e4bbc</dc:identifier>
         <dc:title>Cradle 6: Underlord</dc:title>
         <dc:creator opf:file-as="Wight, Will" opf:role="aut">Will Wight</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-03-02T00:00:00+00:00</dc:date>
         <dc:publisher>Hidden Gnome Publishing</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B07NJ3B6HN</dc:identifier>
